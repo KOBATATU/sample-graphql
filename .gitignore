@@ -152,3 +152,5 @@ storybook-static/*
 
 # reports
 __reports__.reg
+
+/dist
